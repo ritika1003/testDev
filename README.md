@@ -1,1 +1,1 @@
-Small project involving basic knowledge about HTML, CSS, javascript and databases
+Small project involving basic knowledge about struts2, hibernate, posgresql
